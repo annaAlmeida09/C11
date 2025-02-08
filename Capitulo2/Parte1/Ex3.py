@@ -1,3 +1,4 @@
+#Exercício 3)
 aux = 1
 
 while aux == 1:

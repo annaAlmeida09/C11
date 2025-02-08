@@ -1,3 +1,4 @@
+#Exercício 4)
 distancia = float(input("Qual a distancia da viagem em km?"))
 if distancia < 200.00:
     preco = 0.50*distancia

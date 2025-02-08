@@ -1,3 +1,4 @@
+#Exercício 6)
 import math
 num = float(input("Entre com um numero decimal."))
 print("Sua raiz quadrada é", math.sqrt(num))

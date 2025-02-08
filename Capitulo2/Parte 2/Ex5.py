@@ -1,3 +1,4 @@
+#Exercício 5)
 aut = 0
 while aut == 0:
     num = int(input('Entre um número entre 1000 e 9999.'))
