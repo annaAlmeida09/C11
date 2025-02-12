@@ -1,11 +1,35 @@
 --> Capítulo 3: Coleções
-*No Python uma boa prática é usar aspas simples 
+*No Python uma boa prática é usar aspas simples para string
 *Boas praticas em python - pesquisar
 
 Principais tipos de coleções em Python
     Coleções = Variáveis compostas = váriaveis que armazenam uma série de valores ao mesmo tempo.
+    
     Tuplas (Tuples)
-        a forma mais simples de coleções no python é a tupla, separada por parênteses 
+        A forma mais simples de coleções no python é a tupla, definida por parênteses ()
+        COLEÇÃO IMUTÁVEL
+        Quando usar a tupla = coisas que não temos intenção de mudar com o tempo de execução
+        Exemplo = cadastrar os estados do brasil
+        DADOS ESTÁTICOS
+        Permite que coloque elementos de tipos diferentes (heterogêneos)
+
     Listas (Lists)
+        Tipo de variável composta, porém, coleção MUTÁVEL
+        Permite que os elementos sejam acessados, alterados, excluídos e novos elementos sejam inseridos
+        Definida por colcetes []
+
+
     Conjuntos (Sets)
+        Diferente da lista, é uma coleção NÃO ORDENADA e NÃO ADMITE ELEMENTOS DUPLICADOS
+        Parcialmente mutavel
+        Lembra o Diagrama de Venn
+        Definido por chaves {}
+        Conjuntos não guardam elementos repetidos
+        Conjuntos não guardam ordem de elementos
+        Usado para tratar elementos unicos
+        Assim como na matemática, existe operações entre conjuntos
+
     Dicionários (Dictionaries)
+        Variáveis compostas MUTÁVEIS mas que permite se trabalhar com ÍNDICES PERSONALIZÁVEIS (CHAVE:VALOR)
+        Definido por chave:valor {chave:valor}
+
