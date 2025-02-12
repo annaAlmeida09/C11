@@ -1,5 +1,5 @@
 #Exercicio 1)
-nome = input("Escreva seu nome completo.")
+nome = input('Escreva seu nome completo.')
 print(nome.upper())
 print(nome.lower())
 len(nome)
