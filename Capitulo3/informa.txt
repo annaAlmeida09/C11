@@ -1,0 +1,11 @@
+--> Capítulo 3: Coleções
+*No Python uma boa prática é usar aspas simples 
+*Boas praticas em python - pesquisar
+
+Principais tipos de coleções em Python
+    Coleções = Variáveis compostas = váriaveis que armazenam uma série de valores ao mesmo tempo.
+    Tuplas (Tuples)
+        a forma mais simples de coleções no python é a tupla, separada por parênteses 
+    Listas (Lists)
+    Conjuntos (Sets)
+    Dicionários (Dictionaries)
