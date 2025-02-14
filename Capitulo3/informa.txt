@@ -32,4 +32,4 @@ Principais tipos de coleções em Python
     Dicionários (Dictionaries)
         Variáveis compostas MUTÁVEIS mas que permite se trabalhar com ÍNDICES PERSONALIZÁVEIS (CHAVE:VALOR)
         Definido por chave:valor {chave:valor}
-
+        
