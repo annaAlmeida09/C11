@@ -19,7 +19,6 @@ contador = np.unique(matriz, return_counts=True)
 print('Ocorrência dos valores:')
 for i in range(len(contador[1])):
     print(f'{contador[0][i]}: {contador[1][i]}')
-
 print('Valores que aparecem 2 vezes:')
 for j in range(len(contador[1])):
     if contador[1][j] == 2:  
