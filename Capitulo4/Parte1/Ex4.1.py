@@ -1,4 +1,4 @@
-#Exercício 2
+#Exercício 1
 #importando o numpy
 import numpy as np
 
