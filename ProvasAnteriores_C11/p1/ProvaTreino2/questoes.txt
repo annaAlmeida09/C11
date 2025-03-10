@@ -9,6 +9,7 @@ Mostre possível valor das 5 primeiras marcas em 2023.
 
 Questão 4:
 Mostre a quantidade de marcas fundadas após 2000.
+Mostre as marcas fundadas após 2000.
 
 Questão 5:
 Mostre o ano com mais empresas fundadas.

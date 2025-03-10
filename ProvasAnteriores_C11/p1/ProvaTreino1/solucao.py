@@ -32,6 +32,5 @@ min_artist = artist[min]
 print('O artista com o álbum mais antigo é', min_artist, 'do país', min_country + '.')
 
 # Questão 4
-artists = dataset[1:11]
-print('Artistas mais vendidos:', artists[0:,0])
-
+top_artists = artist[0:10] # 0 exclusive e 10 inclusive 
+print(top_artists)
