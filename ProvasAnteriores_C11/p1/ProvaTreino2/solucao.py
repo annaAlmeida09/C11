@@ -3,6 +3,7 @@ import numpy as np
 dataset = np.loadtxt('./ProvasAnteriores_C11/p1/ProvaTreino2/brands.csv', delimiter = ';', dtype = str, encoding = 'utf-8')
 
 # Slicing
+# Fiz mais para treinar, mas não tem necessidade de fazer o de todos
 
 brand = dataset [1:,0]
 founded_by = dataset [1:,1]
@@ -45,4 +46,8 @@ sum_founded_in_2000 = cond2.sum()
 print(founded_in_2000)
 print(sum_founded_in_2000)
 
+# Questão 5
+unique_years, frequency_years = np.unique(founded_in, return_counts=True) # Pegando os valores uma unica vez e suas frequências
+most_year = np.argmax(frequency_years) # Pegando o index do valor que aparece com maior frequência
+print('Ano com mais empresas fundadas:', unique_years[most_year])
 
