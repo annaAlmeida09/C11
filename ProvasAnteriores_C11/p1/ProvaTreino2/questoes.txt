@@ -1,0 +1,14 @@
+Questão 1:
+Mostre a valorização do Google de 2021 para 2022.
+
+Questão 2:
+Mostre a quantidade de marcas com a palavra group no nome.
+
+Questão 3:
+Mostre possível valor das 5 primeiras marcas em 2023.
+
+Questão 4:
+Mostre a quantidade de marcas fundadas após 2000.
+
+Questão 5:
+Mostre o ano com mais empresas fundadas.

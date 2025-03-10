@@ -1,0 +1,17 @@
+Uma empresa conceituada do ramo do entretenimento musical foi contratada para criar um museu em homenagem a músicos famosos. Porém,
+a fim de tomar decisões certeiras, tanto na criação, quanto na inauguração do espaço, ela precisa buscar responder as seguintes perguntas
+abaixo por meio do dataset artists_v2.csv
+
+ps: utiliza a ',' (vírgula) como delimitador para ler este dataset.
+
+Questão 1:
+Mostre a porcentagem de artistas que são dos Estados Unidos.
+
+Questão 2: 
+Mostre quantos artistas deste dataset já não estão mais em atividade.
+
+Questão 3: 
+Mostre o nome e o país do artista que lançou o disco mais antigo, segundo este dataset. 
+
+Questão 4:
+Mostre o nome dos 10 artistas que mais venderam discos. 
