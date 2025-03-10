@@ -1,0 +1,11 @@
+1. Apresente a porcentagem das missões que deram certo
+
+2. Qual a media dos gastos de uma missão espacial se baseando em missões com valores disponíveis (>0)?
+
+3. Encontre quantas missões espaciais neste dataset foram realizadas pelos estados unidos.
+
+4. Encontre qual foi a missão mais cara realizada pela SpaceX.
+
+5. Mostre o nome das empresas que já realizaram missões espaciais, juntamente com suas respectivas quantidades de missões 
+(use o for no final para mostrar as informações)
+

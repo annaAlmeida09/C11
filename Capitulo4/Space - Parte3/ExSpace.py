@@ -11,10 +11,10 @@ cost = dataset[1:, 6].astype(float) # Definir o custo como float
 status = dataset[1:, 7] 
 
 # Exercício 1 
-sucess = np.char.startswith(status, 'Success') > 0
-sum_sucess = sucess[sucess == True].sum()
-porcent_sucess = (sum_sucess*100)/status.size
-print('A porcentagem de sucesso das missões é de:', porcent_sucess, '%')
+success = np.char.startswith(status, 'Success') > 0
+sum_success = success[success == True].sum()
+porcent_success = (sum_success*100)/status.size
+print('A porcentagem de sucesso das missões é de:', porcent_success, '%')
 
 # Exercício 2
 print('A media dos gastos de uma missão espacial é de:', cost[cost != 0].mean(), 'dólares.') 
