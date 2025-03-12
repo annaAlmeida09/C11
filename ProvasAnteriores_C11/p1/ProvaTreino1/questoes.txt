@@ -14,4 +14,4 @@ Questão 3:
 Mostre o nome e o país do artista que lançou o disco mais antigo, segundo este dataset. 
 
 Questão 4:
-Mostre o nome dos 10 artistas que mais venderam discos. 
+Mostre o nome dos 10 primeiros artistas.
