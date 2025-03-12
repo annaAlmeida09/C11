@@ -1,0 +1,17 @@
+Questão 1:
+Mostre quantos posts deste dataset são do Brazil
+
+Questão 2:
+Calcule a porcentagem de posts deste dataset que possuem a hashtag "Education";
+
+Questão 3:
+Calcule a média de Views e Likes dos posts deste dataset pertencentes ao Instagram.
+Em seguida, guarde os resultados em um dicionário e mostre seus valores;
+
+Questão 4:
+Para a plataforma com maior quantidade de posts neste dataset, mostre seu nome e
+seu número de posts.
+
+Questão 5:
+Mostre a origem (região) de onde saiu o post com maior número de likes segundo
+este dataset.

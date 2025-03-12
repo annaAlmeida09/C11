@@ -3,6 +3,7 @@ import numpy as np
 dataset = np.loadtxt('.\Capitulo4\Space - Parte3\space.csv', delimiter=';', dtype = str, encoding = 'utf-8')
 
 # SLICING 
+
 company = dataset[1:, 1]
 location = dataset[1:, 2]
 detail = dataset[1:, 4]
