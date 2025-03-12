@@ -27,10 +27,10 @@ print('A porcentagem de posts que possuem a hashtag "Education" no dataset é de
 instagram_views = views[platform == 'Instagram']
 instagram_likes = likes[platform == 'Instagram']
 
-#print('A média de views do Instagram é:', round(instagram_views.mean(),3), 'views.')
-#print('A média de likes do Instagram é:', round(instagram_likes.mean(),3), 'likes.')
+# print('A média de views do Instagram é:', round(instagram_views.mean(),3), 'views.')
+# print('A média de likes do Instagram é:', round(instagram_likes.mean(),3), 'likes.')
 
-mean_instagram = {'views': instagram_views.mean(),'likes': instagram_views.mean()}  # armazenando os valores em um dicionário
+mean_instagram = {'views': instagram_views.mean(),'likes': instagram_likes.mean()}  # armazenando os valores em um dicionário
 print('Os valores médios de views e likes do instagram são:', mean_instagram)       # mostrando o dicionário
 
 # QUESTÃO 4
