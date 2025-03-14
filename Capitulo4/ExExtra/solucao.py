@@ -14,7 +14,7 @@ gpd =  dataset[1:, 8].astype(float)
 # Questão 1
 
 slicing = dataset[1:, :4]
-print('Os países, regions, populações e áreas deste dataset:', slicing)
+print('Os países, regiões, populações e áreas deste dataset:', slicing)
 
 # Questão 2
 
