@@ -1,0 +1,20 @@
+Questão 1:
+Faça um slicing no dataset para mostrar apenas o País (Country), Região
+(Region), População (Population) e Area (Area (sq. mi.)) dos países contidos
+nele;
+
+Questão 2:
+Conte e em seguida mostre quais são as diferentes Regiões do planeta segundo
+este dataset;
+
+Questão 3:
+Mostre qual a taxa média de alfabetização (Literacy (%)) do planeta segundo
+este dataset;
+
+Questão 4:
+Conte quantos países são da América do Norte (NORTHERN AMERICA)
+segundo este dataset;
+
+Questão 5:
+Encontre qual país da América do Sul e Caribe (LATIN AMER. & CARIB)
+possui a maior renda per capita (GDP ($ per capita));
