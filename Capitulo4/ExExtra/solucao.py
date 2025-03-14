@@ -9,6 +9,7 @@ region = dataset[1:, 1]
 population = dataset[1:, 2].astype(float)
 area = dataset[1:, 3].astype(float)
 literacy = dataset[1:, 9].astype(float)
+gpd =  dataset[1:, 8].astype(float)
 
 # Questão 1
 
@@ -33,6 +34,8 @@ print(sum_northern_america_region, 'países são de NORTHERN AMERICA')
 
 # Questão 5
 
-caribe_region = region[region == '']
-
-
+cond = np.char.find(region, "LATIN AMER. & CARIB") >= 0
+caribe_gpd = gpd[cond]
+caribe_country  =  country[cond]
+max_caribe_gpd = np.argmax(caribe_gpd)
+print('O país com maior renda per capita da america do sul e caribe é:', caribe_country[max_caribe_gpd])
